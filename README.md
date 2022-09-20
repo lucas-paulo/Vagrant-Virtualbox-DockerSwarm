@@ -1,1 +1,3 @@
-# VVBoxDSwarm
+# Vagrant
+# Virtualbox
+# DockerSwarm
